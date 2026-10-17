@@ -3,7 +3,6 @@
 A full-stack Todo application built with **Ruby on Rails 8 API** (backend) and **React + TypeScript + Vite** (frontend), using **JWT authentication** via Devise.
 
 ## 🛠 Tech Stack
-
 | Layer | Technology |
 |-------|-----------|
 | Backend | Ruby on Rails 8.1 (API mode) |
